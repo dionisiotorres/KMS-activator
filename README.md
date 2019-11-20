@@ -48,6 +48,7 @@ This project **does not support** the following products:
 * WindowsAddict 	- MDL
 * AveYo           - MDL
 * abbodi1406      - MDL
+* BAU [AveYo]     - MDL
 * Any contributor - YOU!
 
 
@@ -193,5 +194,5 @@ If the activation failed, you may want to run the debug mode to help to determin
 
 
 ## Reference
-* [Turn off KMS Client Online AVS Validation](https://getadmx.com/?Category=Windows_10_2016&Policy=Microsoft.Policies.SoftwareProtectionPlatform::NoAcquireGT) - Disabling i will **NOT** break legit KMS activation!
+* [Turn off KMS Client Online AVS Validation](https://getadmx.com/?Category=Windows_10_2016&Policy=Microsoft.Policies.SoftwareProtectionPlatform::NoAcquireGT) - Disabling it will **NOT** break legit KMS activation!
 * [KMS_VL_ALL_AIO by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
