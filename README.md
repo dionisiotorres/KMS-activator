@@ -191,5 +191,7 @@ If the activation failed, you may want to run the debug mode to help to determin
 
 **Note:** This will automatically remove `SppExtComObjPatcher` if it was installed.
 
-Reference:
-* [Turn off KMS Client Online AVS Validation](https://getadmx.com/?Category=Windows_10_2016&Policy=Microsoft.Policies.SoftwareProtectionPlatform::NoAcquireGT)
+
+## Reference
+* [Turn off KMS Client Online AVS Validation](https://getadmx.com/?Category=Windows_10_2016&Policy=Microsoft.Policies.SoftwareProtectionPlatform::NoAcquireGT) - Disabling i will **NOT** break legit KMS activation!
+* [KMS_VL_ALL_AIO by abbodi1406](https://github.com/abbodi1406/KMS_VL_ALL_AIO)
