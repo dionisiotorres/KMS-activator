@@ -1,0 +1,21 @@
+LIBRARY ntdll.dll
+EXPORTS
+memcmp
+memcpy
+memmove
+memset
+strcmp
+swprintf_s
+wcslen
+_alldiv
+_alldvrm
+_allmul
+_allrem
+_allshl
+_allshr
+_aulldiv
+_aulldvrm
+_aullrem
+_aullshr
+_wcsnicmp
+_wcsicmp
